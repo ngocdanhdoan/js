@@ -1,4 +1,4 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
+//please contact me phodongmuaban@gmail.com
 //website http://www.iphodongvillage.com or http://www.muabanphodong.com
 
 (function($) {
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.muabanphodong.com' target='_blank'><img src='http://www.muabanphodong.com/_/rsrc/1459093276504/home/phodongchuyennhuong.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.muabanphodong.com' target='_blank'><img src=http://www.muabanphodong.com/wp-content/uploads/2016/04/pho-dong-village-muaban-1024x576.jpg' width='500px'/>Phố Đông Village</a>.Dự án nhà ở Tốt nhất Việt Nam 2015. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
