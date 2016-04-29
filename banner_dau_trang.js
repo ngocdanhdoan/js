@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.muabanphodong.com' target='_blank'><img src=http://www.muabanphodong.com/wp-content/uploads/2016/04/pho-dong-village-muaban-1024x576.jpg' width='500px'/>Phố Đông Village</a>.Dự án nhà ở Tốt nhất Việt Nam 2015. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.muabanphodong.com' target='_blank'><img src='http://www.muabanphodong.com/wp-content/uploads/2016/04/phodongvillage-tongquan.jpg' width='500px'/>Phố Đông Village</a>.Dự án nhà ở Tốt nhất Việt Nam 2015. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
