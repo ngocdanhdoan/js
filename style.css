@@ -143,7 +143,7 @@ blockquote cite:before { content: "\2014 \2009"; }
 .footer{float:left;width:31%;margin:10px}
 .footer .widget{margin-bottom:30px}
 .footer h2 {
-    background:#006B4B
+    background:#006B4B;
     color: #000;
     font: 14px Fujiyama;
     margin-bottom: 8px;
